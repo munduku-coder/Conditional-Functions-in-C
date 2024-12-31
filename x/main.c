@@ -1,5 +1,5 @@
     #include <stdio.h>
-    //Question 5: Grade Calculator
+    //Question number five: Grade Calculator
     char calculateGrade(int score) {
     if (score >= 90) return 'A';
     else if (score >= 80) return 'B';
