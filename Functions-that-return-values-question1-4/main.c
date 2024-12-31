@@ -36,4 +36,4 @@
     scanf("%d", &n);
     printf("Sign of %d: %d\n", n, signOfNumber(n));
     return 0;
-}
+    }
