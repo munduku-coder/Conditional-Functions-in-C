@@ -61,6 +61,5 @@
     printSign();
     categorizeTemperature();
     checkEligibility();
-
     return 0;
 }
